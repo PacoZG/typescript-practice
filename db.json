@@ -1,0 +1,100 @@
+{
+  "celebrities": [
+    {
+      "id": 1,
+      "type": "athlete",
+      "full_name": "Michael Jordan",
+      "birthday": "2019-05-30T17:30:31.098Z",
+      "country": "United States",
+      "sport": "basketball",
+      "team": "Chicago Bulls",
+      "active": "no",
+      "alive": "yes",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "type": "musician",
+      "full_name": "Dave Welck",
+      "birthday": "1956-11-25T18:39:34.091Z",
+      "country": "Canada",
+      "band": "Dave Weckl Band",
+      "famous_song": "Funky Chicken",
+      "albums_recorded": 15,
+      "instrument": "Drums",
+      "alive": "yes",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "type": "polititian",
+      "full_name": "Angela Merkel",
+      "birthday": "1970-01-11T19:20:14.298Z",
+      "country": "Germany",
+      "position": "Prime Minister",
+      "years_in_power": 12,
+      "alive": "yes",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "type": "athlete",
+      "full_name": "Christiano Ronaldo",
+      "birthday": "2001-04-15T19:20:14.298Z",
+      "country": "Portugal",
+      "sport": "football",
+      "team": "Real Madrid",
+      "active": "yes",
+      "alive": "yes",
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "type": "singer",
+      "full_name": "Elvis Presley",
+      "birthday": "1935-05-30T19:20:14.298Z",
+      "country": "United States",
+      "band": "Elvis Band",
+      "famous_song": "It's now or never",
+      "albums_recorded": 5,
+      "alive": "no",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "type": "musician",
+      "full_name": "John Lennon",
+      "birthday": "1940-10-17T19:20:14.298Z",
+      "country": "United Kingdom",
+      "band": "The Beatles",
+      "famous_song": "Imagine",
+      "albums_recorded": 22,
+      "instrument": "Guitar and voice",
+      "alive": "no",
+      "gender": "male"
+    },
+    {
+      "id": 7,
+      "type": "polititian",
+      "full_name": "Bernie Sanders",
+      "birthday": "1937-10-17T19:20:14.298Z",
+      "country": "United States",
+      "position": "Senator",
+      "years_in_power": 19,
+      "alive": "yes",
+      "gender": "male"
+    },
+    {
+      "id": 8,
+      "type": "singer",
+      "full_name": "Maria Carey",
+      "birthday": "1935-05-30T19:20:14.298Z",
+      "country": "United States",
+      "band": "Maria Band",
+      "famous_song": "Christmas Song",
+      "albums_recorded": 5,
+      "alive": "yes",
+      "gender": "female"
+    }
+  ]
+}
